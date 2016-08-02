@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "Mike",
+      "password": "d166e49990174140731d9bb09a56351484bc092a",
+      "id": "1501b444-734f-4ed9-9235-a493d1f33388",
+      "token": "fb2dd9ec-52e6-41fb-9001-1b342d7d3738"
+    },
+    {
+      "username": "Mike2",
+      "password": "bc2383aa097f45928befbeea0c7271312ebb50a0",
+      "id": "4276db48-cbc1-4bdf-ba43-a1ffc40c7515",
+      "token": "06eabfb3-0d91-42a2-a788-d067e37f5547"
+    },
+    {
+      "username": "Mike3",
+      "password": "0bcbb5acb8b3a18a400497bfa18fbe6782098f4e",
+      "id": "9268fc0d-d4f6-4c2d-8f97-ab622c8ef102"
+    },
+    {
+      "username": "Mike4",
+      "password": "73996083e3179a8d7f9abb0ef517f268cbdb0ca6",
+      "id": "e479f201-d91a-4919-b0cd-553c62696f92"
+    }
+  ]
+}
